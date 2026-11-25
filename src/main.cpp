@@ -4,8 +4,6 @@
 #include "AlatLaboratorium.hpp"
 using namespace std;
 
-// fungsi buat nyari alat di vector berdasarkan nama
-// kalau ketemu return index nya, kalau ga ketemu return -1
 int cariAlat(vector<AlatLaboratorium> &daftar, string nama) {
     for (int i = 0; i < daftar.size(); i++) {
         if (daftar[i].getNama() == nama) {
@@ -18,7 +16,6 @@ int cariAlat(vector<AlatLaboratorium> &daftar, string nama) {
 int main() {
     vector<AlatLaboratorium> daftarAlat;
 
-    // data awal alat di lab
     daftarAlat.push_back(AlatLaboratorium("Mikroskop", "Optik", 5));
     daftarAlat.push_back(AlatLaboratorium("Tabung Reaksi", "Gelas Kimia", 40));
     daftarAlat.push_back(AlatLaboratorium("Multimeter", "Elektronika", 8));
@@ -39,7 +36,6 @@ int main() {
         cout << "Pilih menu: ";
         cin >> pilih;
 
-        // kalau user masukin huruf biar ga error terus
         if (cin.fail()) {
             cin.clear();
             cin.ignore(1000, '\n');
@@ -47,7 +43,7 @@ int main() {
             pilih = -1;
             continue;
         }
-        cin.ignore(); // buang enter biar getline ga kelewat
+        cin.ignore(); t
 
         if (pilih == 1) {
             cout << endl << "--- Daftar Alat ---" << endl;
@@ -63,7 +59,6 @@ int main() {
             cout << "Nama alat : ";
             getline(cin, nama);
 
-            // cek dulu biar ga ada data dobel
             if (cariAlat(daftarAlat, nama) != -1) {
                 cout << "Alat " << nama << " sudah ada! pakai menu 3 untuk tambah jumlah" << endl;
             } else {
