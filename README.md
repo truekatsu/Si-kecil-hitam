@@ -8,7 +8,7 @@ Tugas kelompok Pertemuan 8 (Object dan Class) - Kelompok 8C
 |---------|------|-----|-------|
 | A | ... | ... | Lead Programmer (bikin AlatLaboratorium.hpp) |
 | B | ... | ... | Implementer (bikin AlatLaboratorium.cpp) |
-| C | ... | ... | Integrator (bikin main.cpp dan merge) |
+| C | Sultan Febrian | 26032014076 | Integrator (bikin main.cpp dan merge) |
 | D | ... | ... | Tester |
 | E | ... | ... | Dokumentator (README dan class diagram) |
 
