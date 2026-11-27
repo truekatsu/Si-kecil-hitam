@@ -1,0 +1,27 @@
+1
+2
+Gelas Ukur
+Gelas Kimia
+15
+2
+Mikroskop
+3
+Multimeter
+4
+4
+Mikroskop
+10
+4
+Mikroskop
+2
+3
+Tabung Reaksi
+-5
+5
+Gelas Ukur
+5
+Bunsen
+abc
+9
+1
+0

@@ -1,0 +1,186 @@
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 1
+
+--- Daftar Alat ---
+1.
+Nama     : Mikroskop
+Kategori : Optik
+Jumlah   : 5
+---------------------------
+2.
+Nama     : Tabung Reaksi
+Kategori : Gelas Kimia
+Jumlah   : 40
+---------------------------
+3.
+Nama     : Multimeter
+Kategori : Elektronika
+Jumlah   : 8
+---------------------------
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 2
+Nama alat : Gelas Ukur
+Kategori  : Gelas Kimia
+Jumlah    : 15
+Alat berhasil ditambahkan
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 2
+Nama alat : Mikroskop
+Alat Mikroskop sudah ada! pakai menu 3 untuk tambah jumlah
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 3
+Nama alat : Multimeter
+Jumlah    : 4
+Stok Multimeter sekarang: 12
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 4
+Nama alat : Mikroskop
+Jumlah    : 10
+[ERROR] Stok Mikroskop hanya 5, tidak bisa dikurangi 10.
+Stok Mikroskop sekarang: 5
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 4
+Nama alat : Mikroskop
+Jumlah    : 2
+Stok Mikroskop sekarang: 3
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 3
+Nama alat : Tabung Reaksi
+Jumlah    : -5
+[ERROR] Jumlah tambahan harus lebih dari 0.
+Stok Tabung Reaksi sekarang: 40
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 5
+Nama alat : Gelas Ukur
+Nama     : Gelas Ukur
+Kategori : Gelas Kimia
+Jumlah   : 15
+---------------------------
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 5
+Nama alat : Bunsen
+Alat tidak ditemukan
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: abc
+Input harus angka!
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 9
+Menu tidak ada
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 1
+
+--- Daftar Alat ---
+1.
+Nama     : Mikroskop
+Kategori : Optik
+Jumlah   : 3
+---------------------------
+2.
+Nama     : Tabung Reaksi
+Kategori : Gelas Kimia
+Jumlah   : 40
+---------------------------
+3.
+Nama     : Multimeter
+Kategori : Elektronika
+Jumlah   : 12
+---------------------------
+4.
+Nama     : Gelas Ukur
+Kategori : Gelas Kimia
+Jumlah   : 15
+---------------------------
+
+=== INVENTARIS ALAT LABORATORIUM ===
+1. Lihat semua alat
+2. Tambah alat baru
+3. Tambah jumlah alat
+4. Kurangi jumlah alat
+5. Cari info alat
+0. Keluar
+Pilih menu: 0
+Program selesai, terima kasih
