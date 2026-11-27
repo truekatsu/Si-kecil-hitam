@@ -43,7 +43,7 @@ int main() {
             pilih = -1;
             continue;
         }
-        cin.ignore(); t
+        cin.ignore();
 
         if (pilih == 1) {
             cout << endl << "--- Daftar Alat ---" << endl;
